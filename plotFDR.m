@@ -1,6 +1,8 @@
 function plotFDR
 % Plots the estimated FDR vs the true underlying FDR on synthetic data
-% Produces: Figure 1C
+% Produces: Figure 1C for the paper:
+% Thresholding functional connectomes by means of Mixture Modeling (2017)  
+% by Bielczyk, Walocha et al.
 % Author: Fabian Walocha (2017), fawalocha@gmail.com
 
 %% Prepare data

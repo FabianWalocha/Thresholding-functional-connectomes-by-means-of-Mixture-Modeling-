@@ -18,7 +18,9 @@ function [dens] = plotMain2( dataRM, dataTM,dataRP,dataTP,dataRE,dataTE,dataRL,d
 %   Outputs:
 %       dens    density of differences and significant differences
 %
-% Saves codes for figure 4, figure 5, figure 11
+% Saves codes for figure 4, figure 5, figure 11 for the paper:
+% Thresholding functional connectomes by means of Mixture Modeling (2017)  
+% by Bielczyk, Walocha et al.
 % Author: Fabian Walocha (2017), fawalocha@gmail.com
 
 nams = {'EP','ledW','permT','MM','N1','N2'};

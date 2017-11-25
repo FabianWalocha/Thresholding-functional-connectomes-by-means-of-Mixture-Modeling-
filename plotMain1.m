@@ -27,7 +27,9 @@ function [ res_MM, res_permT, res_EP, res_ledW, res_N1, res_N2, iccs, avgs, icc2
 %       icc2        cohort-level ICC 
 %
 % Produces: Figure 1A, figure 1B, Figure 3, table 1, table 2, table 3,
-% table 4, saves results for figure 9, figure 10
+% table 4, saves results for figure 9, figure 10 for the paper:
+% Thresholding functional connectomes by means of Mixture Modeling (2017)  
+% by Bielczyk, Walocha et al.
 % Author: Fabian Walocha (2017), fawalocha@gmail.com
 
 %% Define important parameters

@@ -1,6 +1,8 @@
 function plotVarN
 % PLOTVARN Tests the results for stability over decreasing number of observed ROIs
-% Produces: Figure 2
+% Produces: Figure 2 for the paper:
+% Thresholding functional connectomes by means of Mixture Modeling (2017)  
+% by Bielczyk, Walocha et al.
 % Author: Fabian Walocha (2017), fawalocha@gmail.com
 
 clc;

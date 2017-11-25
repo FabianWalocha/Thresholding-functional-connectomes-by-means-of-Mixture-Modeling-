@@ -1,6 +1,8 @@
 function plotROC
 % PLOTROCCURVE Calculates ROC curve for select set of parameters
-% Produces: Figure 1D
+% Produces: Figure 1D for the paper:
+% Thresholding functional connectomes by means of Mixture Modeling (2017)  
+% by Bielczyk, Walocha et al.
 % Author: Fabian Walocha (2017), fawalocha@gmail.com
 
 clc;

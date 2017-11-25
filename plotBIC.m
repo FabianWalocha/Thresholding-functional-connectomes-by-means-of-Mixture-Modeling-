@@ -1,6 +1,8 @@
 function plotBIC
 % PLOTBIC Comparison of all 8 methods on synthetic, HCP rest, and HCP task via BIC. 
-% Produces: Figure 6, figure 7, figure 8
+% Produces: Figure 6, figure 7, figure 8 for the paper:
+% Thresholding functional connectomes by means of Mixture Modeling (2017)  
+% by Bielczyk, Walocha et al.
 % Author: Fabian Walocha (2017), fawalocha@gmail.com
 
 clearvars;
