@@ -50,7 +50,7 @@ plotMain1 -
 	table 4, saves results for figure 9, figure 10
 
 plotMain2 - 
-	Saves codes for figure 4, figure 5, figure 11
+	Saves codes for figure 4, figure 5
 
 plotROC - 
 	Produces: Figure 1D
@@ -58,6 +58,13 @@ plotROC -
 plotVarN - 
 	Produces: Figure 2
 
+plotCStest - 
+	Saves codes for figure 11
+
 circularPlots - 
 	Produces: Figure 4, figure 5, figure 9, figure 10, figure 11
+	Made using python 3.5.3.1Qt5
+
+circularPlots -
+	Produces: Figure 11
 	Made using python 3.5.3.1Qt5
